@@ -12,9 +12,9 @@ Detecting CVDs require a wide range of diagnostic tests performed by specialists
 
 @Enoch - Data cleaning, Exploratory analysis, SelectKBest
 
-@YuHsuan - Logistic Regression, Binary Decision Tree
+@YuHsuan - Logistic Regression
 
-@Xavier - Random Forest, Gaussian Naive Bayes, XGBoost, ROC Curve
+@Xavier - Random Forest, Gaussian Naive Bayes, XGBoost
 
 
 # Problem Definition
