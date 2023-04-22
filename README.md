@@ -10,7 +10,7 @@ Detecting CVDs require a wide range of diagnostic tests performed by specialists
 
 # Contributors
 
-@Enoch - Data cleaning, Exploratory analysis, SelectKBest
+@Enoch - Data cleaning, Exploratory analysis
 
 @YuHsuan - Logistic Regression
 
